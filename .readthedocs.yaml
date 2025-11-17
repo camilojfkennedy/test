@@ -14,7 +14,6 @@ build:
       - pip install sphinx_rtd_theme sphinx_design myst-parser linkify-it-py
     post_build:
       - echo "Build finished!"
-      - sphinx-build -n -b text docs $READTHEDOCS_OUTPUT/html/
 
 
 # Build documentation in the "docs/" directory with Sphinx
