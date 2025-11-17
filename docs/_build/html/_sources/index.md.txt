@@ -18,14 +18,6 @@ README.md
 
 # NUEVA PLANTILLA reemplaza a la index.rst
 
-## Mermaid
-
-```mermaid
-graph LR
-    hello --> world
-    world --> again
-    again --> hello
-```
 
 ## campos
 :External URL: [Explicit text](https://example.com)
