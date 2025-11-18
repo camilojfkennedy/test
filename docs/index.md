@@ -18,6 +18,10 @@ README.md
 
 # NUEVA PLANTILLA reemplaza a la index.rst
 
+Presentación para Catalina Fonseca y Sandra Rabello:
+
+1. Desde Puerto Boyacá
+
 
 ## campos
 :External URL: [Explicit text](https://example.com)
