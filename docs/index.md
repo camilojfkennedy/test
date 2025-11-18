@@ -20,6 +20,9 @@ README.md
 
 Presentación para Catalina Fonseca y Sandra Rabello:
 
+![cata](cata.png)
+
+
 1. Desde Puerto Boyacá
 
 
