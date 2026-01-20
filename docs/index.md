@@ -18,8 +18,11 @@ README.md
 
 # NUEVA PLANTILLA reemplaza a la index.rst
 
-
 ## 2026
+
+### Enero de 2027
+
+Hicimos un cambio de este proyecto de este año...
 
 ### Diciembre
 
