@@ -18,20 +18,11 @@ README.md
 
 # NUEVA PLANTILLA reemplaza a la index.rst
 
-## 2026
+## 2028
 
-### Enero de 2027
+### Enero de 2028
 
-Hicimos un cambio de este proyecto de este año...
-
-### Diciembre
-
-Finalizamos año escolar
-
-
-### ENERO
-
-Iniciamos con POA y planes de area
+Iniciamos con el POA
 
 
 Presentación para Catalina Fonseca y Sandra Rabello:
