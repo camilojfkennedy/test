@@ -21,12 +21,15 @@ README.md
 
 ## 2026
 
+### Diciembre
+
+Finalizamos año escolar
+
+
 ### ENERO
 
 Iniciamos con POA y planes de area
 
-
-## EN PRUEBAS
 
 Presentación para Catalina Fonseca y Sandra Rabello:
 
