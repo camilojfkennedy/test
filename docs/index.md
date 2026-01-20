@@ -18,15 +18,11 @@ README.md
 
 # NUEVA PLANTILLA reemplaza a la index.rst
 
-## 2028
+## 2029
 
-### Diciembre 2028
+### Enero de 2029
 
-Finalizamos año académico
-
-### Enero de 2028
-
-Iniciamos con el POA
+Iniciamos con el POA del 2029
 
 
 Presentación para Catalina Fonseca y Sandra Rabello:
