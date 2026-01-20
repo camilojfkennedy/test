@@ -20,6 +20,10 @@ README.md
 
 ## 2028
 
+### Diciembre 2028
+
+Finalizamos año académico
+
 ### Enero de 2028
 
 Iniciamos con el POA
