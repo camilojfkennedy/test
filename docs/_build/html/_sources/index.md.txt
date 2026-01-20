@@ -18,6 +18,14 @@ README.md
 
 # NUEVA PLANTILLA reemplaza a la index.rst
 
+
+## 2026
+
+### ENERO
+
+Iniciamos con POA y planes de area
+
+
 ## EN PRUEBAS
 
 Presentación para Catalina Fonseca y Sandra Rabello:
